@@ -1,0 +1,33 @@
+{
+  "name": "express-sticky-note",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "webpack": "webpack --config ./src/webpack.config.js --mode=development",
+    "watch": "onchange 'src/**/*.js' 'src/**/*.less' --  npm run webpack"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "ejs": "~2.5.7",
+    "express": "~4.16.0",
+    "express-session": "^1.15.6",
+    "http-errors": "~1.6.2",
+    "morgan": "~1.9.0",
+    "nrm": "^1.0.2",
+    "passport": "^0.4.0",
+    "passport-github": "^1.1.0",
+    "sequelize": "^4.41.0",
+    "sqlite3": "^4.0.3",
+    "webpack": "^4.22.0"
+  },
+  "devDependencies": {
+    "css-loader": "^1.0.0",
+    "less": "^3.8.1",
+    "less-loader": "^4.1.0",
+    "onchange": "^3.2.1",
+    "style-loader": "^0.23.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
