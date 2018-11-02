@@ -1,5 +1,6 @@
 # express-sticky-note
 此处为源代码 运行需要服务器 如有需要 可以拷贝根据源代码配置相应的地址即可
+
 #express
 
 #sqequelize    sqlite3
