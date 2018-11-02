@@ -1,27 +1,27 @@
 # express-sticky-note
 拷贝打开本地 执行npm start命令  在localhost：3000 打开预览
 
-#express
+### express
 
-#sqequelize    sqlite3
+### sqequelize    sqlite3
 
-#passport
+### passport
 
-#passport-github
+### passport-github
 
-#style-load css-load less-load
+### style-load css-load less-load
 
-#express-session
+### express-session
 
-#webpack  config collocation
+### webpack  config collocation
 
-#webpack --config
+### webpack --config
 
-#onchange
+### onchange
 
-#plugins
+### plugins
 
-#node-inspector (调试用 默认启动端口是8080）
+### node-inspector (调试用 默认启动端口是8080）
 
-#auth
+### auth
 
